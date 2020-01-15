@@ -1,0 +1,16 @@
+@import url("fonts.css");
+@import url("font-awesome/css/font-awesome.min.css");
+@import url("micons/micons.css");
+
+h1, , h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
+	font-family: "poppins-semibold", sans-serif;
+	color: #fafafa;
+	font-style: normal;
+	text-rendering: optimizeLegibility;
+	margin-bottom: 2.1rem;
+
+a:hover, a:focus, a:active {
+	color: #FF0077;
+	outline: 0;
+
+}               }
