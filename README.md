@@ -16,9 +16,9 @@ Elaboración de mi portafolio de proyectos realizados en diversas tecnologias:
 
 ## Contacto:
 
-* Email: alfredoeduran@gmail.com
-* Twitter: alfredoeduran
-* Instagram: alfredoeduran
+* Email: alfredoeduran@gmail.com - 
+* Twitter: [alfredoeduran] - (https://twitter.com/alfredoeduran/)
+* Instagram: [alfredoeduran] - (https://instagram.com/alfredoeduran/)
 
 
 
